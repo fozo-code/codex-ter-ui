@@ -4,7 +4,7 @@
 # Uninstall: codex-ter-ui uninstall
 
 VER="1.0.0"
-REPO_RAW="https://raw.githubusercontent.com/YOUR_USER/codex-ter-ui/main/install.sh"
+REPO_RAW="https://raw.githubusercontent.com/fozo-code/codex-ter-ui/main/install.sh"
 FONT_URL="https://github.com/ryanoasis/nerd-fonts/raw/HEAD/patched-fonts/JetBrainsMono/Ligatures/Regular/JetBrainsMonoNerdFont-Regular.ttf"
 
 DIR="$HOME/.codex-ter-ui"
